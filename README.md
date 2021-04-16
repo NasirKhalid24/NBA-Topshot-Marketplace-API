@@ -5,8 +5,6 @@ Playing with NBA Topshot endpoints. Check out the examples for quick start
 
 [MAIN LINK FOR DOCUMENTATION](https://documenter.getpostman.com/view/7186182/TzJrBeRJ)
 
-[PUBLIC POSTMAN COLLECTION](https://www.getpostman.com/collections/7b164ee4c438066841f7)
-
 🆘 The marketplace endpoint has been beef'd up with Cloudflare security 🆘 
 
 Therefore the API is no longer easily accessible but the schema remains the same and with some clever cookie or headless browser work it may be possible to get data from it
