@@ -1,7 +1,11 @@
 
 # TopShot Marketplace API
 
-Playing with NBA Topshot endpoints - [MAIN LINK FOR DOCUMENTATION](https://documenter.getpostman.com/view/7186182/TzJrBeRJ). Check out the examples for quick start
+Playing with NBA Topshot endpoints. Check out the examples for quick start
+
+[MAIN LINK FOR DOCUMENTATION](https://documenter.getpostman.com/view/7186182/TzJrBeRJ)
+
+[PUBLIC POSTMAN COLLECTION](https://www.getpostman.com/collections/7b164ee4c438066841f7)
 
 🆘 The marketplace endpoint has been beef'd up with Cloudflare security 🆘 
 
